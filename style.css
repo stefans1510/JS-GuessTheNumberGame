@@ -1,0 +1,30 @@
+html {
+    font-family: sans-serif;
+    zoom: 125%;
+}
+
+body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 400px;
+    margin: auto;
+}
+
+.poslednjiRezultat {
+    color: white;
+    padding: 3px;
+    text-align: center;
+    width: 50%;
+}
+
+.forma,
+h1,
+p {
+    position: relative;
+    left: 20%;
+}
+
+.restart {
+    position: absolute;
+    margin-left: 20%;
+}
